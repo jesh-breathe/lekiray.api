@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8gGITzrxfwQHgVs15U1czDC1yXcmUL/eaq+OCAN4uOs=",
+  "Source": "lekiray.api",
+  "BasePath": "_content/lekiray.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

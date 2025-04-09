@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lekiray.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2f369e9b7a85900a9e80d428670252ed49e79b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("lekiray.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lekiray.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
